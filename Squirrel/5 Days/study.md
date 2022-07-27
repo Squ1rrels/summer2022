@@ -79,7 +79,7 @@
 
     ![](./figure/4.png)
 
-    并且可以通过ntp_sysc自动同步RTC时间
+    并且可以通过ntp_sync自动同步RTC时间
 
     ![](./figure/6.png)
 
